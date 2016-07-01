@@ -1,6 +1,6 @@
 # user2016_notes
 
-Combined notes of user2016, from HRUG. This really a unorganized draft with typos, at this point.
+Combined notes of user2016, from HRUG. This really an unorganized draft with typos, at this point.
 
 
 
